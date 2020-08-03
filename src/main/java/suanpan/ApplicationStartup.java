@@ -12,6 +12,8 @@ import org.springframework.context.ApplicationListener;
 import org.springframework.stereotype.Component;
 
 import java.util.Arrays;
+import java.util.Collection;
+import java.util.List;
 import java.util.Map;
 
 /**
@@ -33,6 +35,7 @@ public class ApplicationStartup  implements ApplicationListener {
         Map<String, Object> map = applicationContext.getBeansWithAnnotation(BussinessListener.class);
 
         Object[] bussiness = map.values().toArray();
+
 
         // 触发接收消息
         new MessageRecvService(Arrays.asList(bussiness), MessageDataType.COMMON.getCls()).subscribeMsg();
