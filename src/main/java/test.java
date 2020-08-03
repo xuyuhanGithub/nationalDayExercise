@@ -31,13 +31,15 @@ class test{
         return i%2==1;
     }
     public static void main(String[] args) {
-        boolean a=isOdd(5);
-        boolean b=isOdd(-5);
-        boolean c=isOdd(2147483647);
-        boolean d=isOdd(2147483647+2);
-        System.out.println(a);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
+//        boolean a=isOdd(5);
+//        boolean b=isOdd(-5);
+//        boolean c=isOdd(2147483647);
+//        boolean d=isOdd(2147483647+2);
+//        System.out.println(a);
+//        System.out.println(b);
+//        System.out.println(c);
+//        System.out.println(d);
+        System.out.println(Runtime.getRuntime().availableProcessors());
+
     }
 }

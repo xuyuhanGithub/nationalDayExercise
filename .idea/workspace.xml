@@ -1,8 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="44bf6377-a8a2-4676-9bf2-6ad8073a83ad" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="44bf6377-a8a2-4676-9bf2-6ad8073a83ad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer66_java/No_28最小的K个数.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer66_java/No_28最小的K个数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer66_java/No_5用两个栈实现队列.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer66_java/No_5用两个栈实现队列.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer66_java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/offer66_java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/nationalDayExercise.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/MergeSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/binary_search.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/bubbleSort1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/bucketSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/insert_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/basic_sorted/quick_sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2011_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2011_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2012_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2012_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2015_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2015_02.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/_2017_01.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hundsun/动态规划.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/ListNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_06旋转数组最小数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_07斐波那契数列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_08_10斐波那契额.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_11二进制1个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_12数值得整数次方.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_13数组奇数在偶数前.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_14链表中第K个.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_15翻转链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_16数的子结构.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_17二叉树镜像.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_18顺时针打印矩阵.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_19包含min函数的栈.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_1二维数组查找.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_20栈的压入弹出序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_21从上到下打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_22后序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_23二叉树和为某一值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_24复杂链表的复制.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_25二叉搜索树_中序遍历.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_26字符串排序abc_acb_bac.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_27数组中出现次数超过一半.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_28最小的K个数$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_28最小的K个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_29连续子数组最大和.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_2替换空格.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_30整数1出现的次数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_32数组排成最小数$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_32数组排成最小数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_33丑数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_34第一次只出现一次的字符$Solution.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_34第一次只出现一次的字符.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_35数逆序数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_36两个链表的第一个公共节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_37数字在排序数组的出现次数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_38二叉树深度.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_39平衡二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_3从头到尾打印链表.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_40数组中只出现一次的数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_41和为s的两个数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_41和为s的正数序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_42左旋转字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_43翻转单词顺序列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_44扑克牌顺子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_45圆圈最后剩下的数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_46_1add2add3add4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_47不用加减乘除的加法.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_48字符串转整数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_49数组重复数字.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_4重建二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_50乘积数组.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_51正则表达.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_52表示数值的字符串.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_53字符流中第一个不重复的数值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_54删除链表中重复结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_54链表中环的入口结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_55二叉树下一个结点$TreeLinkNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_55二叉树下一个结点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_56对称二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_57之字打印二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_58二叉树打印多行.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_59序列化二叉树.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_5用两个栈实现队列.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_60二叉搜索树的第K个节点.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_61数据流中位数.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_62滑动窗口最大值.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_63矩阵路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_64机器人路径.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/No_65剪绳子.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/TreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/offer66_java/约瑟夫环.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -11,6 +107,11 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -18,7 +119,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.0/repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
@@ -29,10 +140,19 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RoEPTQuq9AGW3GOA1YBSrvLQuk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/hundsun" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,51 +162,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/java/hundsun" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
   <component name="RunManager" selected="Application._2011_01">
-    <configuration name="约瑟夫环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer66_java.约瑟夫环" />
-      <module name="nationalDayExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer66_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="No_48字符串转整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer66_java.No_48字符串转整数" />
-      <module name="nationalDayExercise" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="offer66_java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="_2011_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hundsun._2011_01" />
       <module name="nationalDayExercise" />
@@ -126,13 +209,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="offer66_java.test" />
+      <module name="nationalDayExercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="offer66_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="nationalDayExercise" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application._2011_01" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.test (1)" />
         <item itemvalue="Application._2012_02" />
         <item itemvalue="Application.binary_search" />
-        <item itemvalue="Application.No_48字符串转整数" />
-        <item itemvalue="Application.约瑟夫环" />
       </list>
     </recent_temporary>
   </component>
@@ -149,11 +252,88 @@
       <workItem from="1570325025090" duration="10000" />
       <workItem from="1570495162876" duration="1241000" />
       <workItem from="1571315404884" duration="16876000" />
-      <workItem from="1571794166079" duration="44803000" />
+      <workItem from="1571794166079" duration="48026000" />
+      <workItem from="1572436111645" duration="414000" />
+      <workItem from="1572485564513" duration="964000" />
+      <workItem from="1572917208607" duration="13000" />
+      <workItem from="1589788807800" duration="4952000" />
+      <workItem from="1591605923430" duration="761000" />
+      <workItem from="1591692635632" duration="394000" />
+      <workItem from="1591693081213" duration="456000" />
+      <workItem from="1591956112462" duration="18000" />
+      <workItem from="1593335376931" duration="447000" />
+      <workItem from="1593678889455" duration="65000" />
+      <workItem from="1593680644172" duration="205000" />
+      <workItem from="1593754499655" duration="7000" />
+      <workItem from="1593754513858" duration="12000" />
+      <workItem from="1596434592214" duration="2474000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser" timestamp="1596438010767">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="653" y="241" key="#com.intellij.ide.util.MemberChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1596438010767" />
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1591692650052">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="528" y="268" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1680.1050/-1280.112.1280.1024@0.0.1680.1050" timestamp="1591692650052" />
+    <state x="389" y="122" key="CommitChangelistDialog2" timestamp="1596438082726">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="389" y="122" key="CommitChangelistDialog2/0.0.1680.1050@0.0.1680.1050" timestamp="1596438082726" />
+    <state width="1636" height="128" key="GridCell.Tab.0.bottom" timestamp="1596437190955">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="128" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1596437190955" />
+    <state width="1638" height="128" key="GridCell.Tab.0.bottom/38.23.1642.1027@38.23.1642.1027" timestamp="1590802788994" />
+    <state width="1636" height="128" key="GridCell.Tab.0.center" timestamp="1596437190949">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="128" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1596437190949" />
+    <state width="1638" height="128" key="GridCell.Tab.0.center/38.23.1642.1027@38.23.1642.1027" timestamp="1590802788992" />
+    <state width="1636" height="128" key="GridCell.Tab.0.left" timestamp="1596437190946">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="128" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1596437190946" />
+    <state width="1638" height="128" key="GridCell.Tab.0.left/38.23.1642.1027@38.23.1642.1027" timestamp="1590802788992" />
+    <state width="1636" height="128" key="GridCell.Tab.0.right" timestamp="1596437190953">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="128" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1596437190953" />
+    <state width="1638" height="128" key="GridCell.Tab.0.right/38.23.1642.1027@38.23.1642.1027" timestamp="1590802788993" />
+    <state x="341" y="164" key="SettingsEditor" timestamp="1596437622051">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-1280.112.1280.1024@0.0.1680.1050" timestamp="1591692614151" />
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1596437622051" />
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596438058184">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596438058184" />
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1596435242523">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="505" y="233" width="670" height="676" key="search.everywhere.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1596435242523" />
   </component>
 </project>

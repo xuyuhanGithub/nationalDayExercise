@@ -1,5 +1,6 @@
 package offer66_java;
 import java.util.ArrayList;
+import java.util.List;
 import java.util.PriorityQueue;
 import java.util.Comparator;
 /**
@@ -8,9 +9,10 @@ import java.util.Comparator;
  */
 
 public class No_28最小的K个数 {
-    public ArrayList<Integer> GetLeastNumbers_Solution(int[] input, int k) {
-            ArrayList<Integer> result = new ArrayList<Integer>();
-            int length = input.length;
+    public List<Integer> GetLeastNumbers_Solution(int[] input, int k) {
+            List<Integer> result = new ArrayList<Integer>();
+//        ArrayList<String> str = new ArrayList<>();
+        int length = input.length;
             if(k > length || k == 0){
                 return result;
             }
@@ -34,5 +36,7 @@ public class No_28最小的K个数 {
                 result.add(integer);
             }
             return result;
-        }
+
+
+    }
     }

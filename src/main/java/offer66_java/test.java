@@ -87,8 +87,28 @@ import netscape.security.UserTarget;
 
 class test{
 
+
     public static void main(String[] args) {
-        double v = 9.0 / 2;
-        double v1 = 9 / 2 * 1.0;
+        class q1{
+            public q1(){
+                System.out.println(1);
+            }
+        }
+
+
+
+      class q2 extends q1{
+            public q2(){
+                System.out.println(2);
+            }
+        }
+
+        class q3 extends q2{
+            public q3(){
+                System.out.println(3);
+            }
+        }
+        q3 q3 = new q3();
+        System.out.println(q3);
     }
 }
