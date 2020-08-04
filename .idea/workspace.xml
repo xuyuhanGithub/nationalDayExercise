@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44bf6377-a8a2-4676-9bf2-6ad8073a83ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suanpan/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanpan/TestDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -296,10 +295,10 @@
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-1280.112.1280.1024@0.0.1680.1050" timestamp="1591692614151" />
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1596509327895" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1596509247032">
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1596509638976">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596509247032" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596509638976" />
     <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596438265741">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
