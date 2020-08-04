@@ -7,4 +7,8 @@ package suanpan;
 
 public class TestDemo {
     private String c;
+    public Integer z;
+    public Integer b;
+    public Integer f;
+    public Integer g;
 }

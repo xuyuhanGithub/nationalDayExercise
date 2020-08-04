@@ -8,8 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="44bf6377-a8a2-4676-9bf2-6ad8073a83ad" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suanpan/ApplicationStartup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanpan/ApplicationStartup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/suanpan/MqClientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanpan/MqClientTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/suanpan/TestDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/suanpan/TestDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,7 +33,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="xuyuhan0803" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -81,7 +79,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -293,15 +291,15 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="551" y="248" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596447258182" />
-    <state x="341" y="164" key="SettingsEditor" timestamp="1596440153412">
+    <state x="341" y="164" key="SettingsEditor" timestamp="1596509327895">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="341" y="164" key="SettingsEditor/0.0.1680.1050/-1280.112.1280.1024@0.0.1680.1050" timestamp="1591692614151" />
-    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1596440153412" />
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1596508772120">
+    <state x="341" y="164" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1596509327895" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2" timestamp="1596509247032">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596508772120" />
+    <state x="440" y="265" key="Vcs.Push.Dialog.v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596509247032" />
     <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1596438265741">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
