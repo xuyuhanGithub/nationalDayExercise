@@ -6,5 +6,5 @@ package suanpan;
  */
 
 public class TestDemo {
-    private String b;
+    private String c;
 }

@@ -37,6 +37,7 @@ public class ApplicationStartup  implements ApplicationListener {
         Object[] bussiness = map.values().toArray();
 
 
+
         // 触发接收消息
         new MessageRecvService(Arrays.asList(bussiness), MessageDataType.COMMON.getCls()).subscribeMsg();
     }
