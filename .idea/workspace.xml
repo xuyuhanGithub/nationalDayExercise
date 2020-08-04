@@ -286,10 +286,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="168" y="94" key="MergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596447258116" />
-    <state x="551" y="248" key="MultipleFileMergeDialog" timestamp="1596447258182">
+    <state x="551" y="248" key="MultipleFileMergeDialog" timestamp="1596510396604">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
-    <state x="551" y="248" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596447258182" />
+    <state x="551" y="248" key="MultipleFileMergeDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596510396604" />
     <state x="341" y="164" key="SettingsEditor" timestamp="1596509327895">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
@@ -303,6 +303,10 @@
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
     <state x="623" y="449" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1680.1050@0.0.1680.1050" timestamp="1596438265741" />
+    <state x="582" y="245" key="git4idea.branch.GitSmartOperationDialog" timestamp="1596510433684">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="582" y="245" key="git4idea.branch.GitSmartOperationDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1596510433684" />
     <state x="505" y="233" width="670" height="676" key="search.everywhere.popup" timestamp="1596435242523">
       <screen x="0" y="0" width="1680" height="1050" />
     </state>
